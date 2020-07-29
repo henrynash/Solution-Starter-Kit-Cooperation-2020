@@ -1,5 +1,5 @@
 # Community collaboration in the context of COVID-19
-
+TEST!
 This solution starter was created by technologists from IBM.
 
 ## Authors
